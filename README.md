@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [mitake2003](https://github.com/mitake2003)
+# Hi there! 👋 I'm [Suraj Mitake](https://github.com/mitake2003)
 
 Welcome to my GitHub profile! 🚀 I'm a passionate developer, constantly learning and building projects that solve real-world problems.
 
@@ -26,8 +26,8 @@ Welcome to my GitHub profile! 🚀 I'm a passionate developer, constantly learni
 ---
 
 ## 🤝 Connect with Me
-- 📧 Email: [mitake2003@example.com](mailto:mitake2003@example.com)
-- 💼 LinkedIn: [linkedin.com/in/mitake2003](https://linkedin.com/in/mitake2003)
+- 📧 Email: [mitake2003@example.com](mitakesuraj80@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/mitake2003](https://www.linkedin.com/in/surajmitake)
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate. 😊
 
